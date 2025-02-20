@@ -1,0 +1,58 @@
+body{
+    background: white !important;
+    margin: 0;
+    padding: 0;
+}
+.logo-img{
+    height: 60px;
+}
+.nav-search{
+    padding: 0 48px;
+}
+.nav-search::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Times, serif;
+    font-size: 10px;
+    line-height: 24px;
+}
+.banner{
+    background: #1E3932;
+    height: 80px;
+}
+.order-now{
+    bottom: 22px;
+    right: 25px;
+    
+}
+.btn-order-now{
+    background: #00754A;
+}
+.sweeten-container{
+    background: rgb(254, 215, 221);
+    margin-top: 85px;
+}
+.handcrafted-text{
+    margin-left: 107px;
+    margin-top: 90px;
+    color: #1E3932;
+    font-size: 24px;
+    font-weight: 700;
+}
+.handcrafted-sub-text{
+    color: #212529;
+    font-size: 14px;
+    font-weight: 600;
+}
+.food{
+    margin-left: 40px !important;
+}
+.drinks{
+    margin-left: 34px !important;
+}
+.coffee-at-home{
+    margin-left: 12px !important;
+}
+.barista-text{
+    color: #1E3932;
+    font-size: 24px;
+    font-weight: 700;
+}
